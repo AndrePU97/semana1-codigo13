@@ -10,7 +10,7 @@ git init
 
 .git
 
-```
+
 git status
 
 
@@ -24,6 +24,7 @@ git add nombre_de_archivo
 
 - Se encarga de agregar los archivos a la memoria de GIT, es decir los guada en un stash
 
+
 git commit -m "comentario"
 
 
@@ -34,9 +35,10 @@ git push origin main
 
 
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
-```
+
 
 git pull origin main
 
 
 - Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso github
+```
